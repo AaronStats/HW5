@@ -7,6 +7,7 @@
 </head> 
        
 <Aaron Statler> 
-        Hello world! 
+        Hello world!
+        This assingment is so fun and the class is honestly very informative and the professor is awesome.
       </Aaron Statler> 
     </html>
